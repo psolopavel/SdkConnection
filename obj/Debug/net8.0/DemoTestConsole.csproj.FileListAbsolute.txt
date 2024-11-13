@@ -1,0 +1,17 @@
+D:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\DemoTestConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\DemoTestConsole.AssemblyInfoInputs.cache
+D:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\DemoTestConsole.AssemblyInfo.cs
+D:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\DemoTestConsole.csproj.CoreCompileInputs.cache
+D:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\DemoTestConsole.genruntimeconfig.cache
+D:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\DemoTestConsole.csproj.AssemblyReference.cache
+D:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\DemoTest.3C2BEC1E.Up2Date
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\net8.0\NetDemo.exe
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\net8.0\NetDemo.deps.json
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\net8.0\NetDemo.runtimeconfig.json
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\net8.0\NetDemo.dll
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\net8.0\NetDemo.pdb
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\NetDemo.dll
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\refint\NetDemo.dll
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\NetDemo.pdb
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\net8.0\ref\NetDemo.dll

@@ -1,0 +1,13 @@
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\netcoreapp2.2\NetDemo.deps.json
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\netcoreapp2.2\NetDemo.runtimeconfig.json
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\netcoreapp2.2\NetDemo.runtimeconfig.dev.json
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\netcoreapp2.2\NetDemo.dll
+d:\Download\homework\netdevsdk\source\DemoTestConsole\bin\Debug\netcoreapp2.2\NetDemo.pdb
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\DemoTestConsole.csproj.AssemblyReference.cache
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\DemoTestConsole.GeneratedMSBuildEditorConfig.editorconfig
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\DemoTestConsole.AssemblyInfoInputs.cache
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\DemoTestConsole.AssemblyInfo.cs
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\DemoTestConsole.csproj.CoreCompileInputs.cache
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\NetDemo.dll
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\NetDemo.pdb
+d:\Download\homework\netdevsdk\source\DemoTestConsole\obj\Debug\netcoreapp2.2\DemoTestConsole.genruntimeconfig.cache
